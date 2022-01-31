@@ -1,0 +1,18 @@
+#ifndef ERROR
+#define ERROR
+
+#define OK 0
+#define NO -1
+#define ERROR_INVALID_COMAND_NUM 1
+#define ERROR_NO_COMAND 2
+#define ERROR_OPEN_FILE 3
+#define ERROR_CANT_READ_SIZE 4
+#define ERROR_READING 5
+#define ERROR_LEN 6
+#define ERROR_INVALID_CHAR 7
+#define ERROR_PRICE 8
+#define ERROR_CONDITION 9
+#define ERROR_GARANTY 10
+#define ERROR_OLD 11
+#define ERROR_SIZE_TABLE 12
+#endif

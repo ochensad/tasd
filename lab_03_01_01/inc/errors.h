@@ -1,0 +1,11 @@
+#ifndef ERRORS
+#define ERRORS
+
+#define OK 0
+#define ERROR_READING 1
+#define ERROR_INVALID_COMAND 2
+#define ERROR_NO_COMAND 3
+#define ERROR_INVALID_MATRIX 5
+#define ERROR_MEMORY 6
+#define ERROR_SIZE_MATRIX 7
+#endif
